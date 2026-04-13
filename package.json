@@ -1,0 +1,26 @@
+{
+  "name": "js-game-keep-white-space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euphrasy07/js-game-keep-white-space.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euphrasy07/js-game-keep-white-space/issues"
+  },
+  "homepage": "https://github.com/euphrasy07/js-game-keep-white-space#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "eslint": "^10.2.0",
+    "eslint-config-google": "^0.14.0",
+    "jest": "^30.3.0"
+  }
+}
